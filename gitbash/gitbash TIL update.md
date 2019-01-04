@@ -57,7 +57,7 @@ student@DESKTOP MINGW64 ~
 $ cd TIL-eunsol/
 
 student@DESKTOP MINGW64 ~/TIL-eunsol (master)
-$ cd add .
+$ git add .
 
 student@DESKTOP MINGW64 ~/TIL-eunsol (master)
 $ git commit -m "D01 | 190102 | startcamp"
@@ -162,5 +162,3 @@ $
 ```
 
 로 진행하기
-
-### 
